@@ -13,3 +13,4 @@ I removed a line and added one
 I removed a line and added one
 I removed a line and added one
 I removed a line and added one
+NEW LINE 
